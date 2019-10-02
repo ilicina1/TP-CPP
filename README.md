@@ -1,1 +1,1 @@
-# TP-CPP
+# Zadaci sa tutorijala iz predmeta tehnike programiranja.

@@ -1,1 +1,1 @@
-# Zadaci sa tutorijala iz predmeta tehnike programiranja.
+# Zadaci iz predmeta tehnike programiranja.
